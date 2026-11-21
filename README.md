@@ -2,6 +2,8 @@ React Native SectionList Apps (C346 Week 05 - Lesson 10)
 
 This repository contains two React Native mobile applications built using Expo, demonstrating SectionList, TouchableOpacity, Image, @expo/vector-icons, and Flexbox styling.
 
+Video Link: https://drive.google.com/file/d/1OPTGre-9XxiqlcFqAaYeT5v_JX2bILxG/view?usp=sharing
+
 📱 Apps Included
 
 1. Exercise #3: Pokemon Cards List
